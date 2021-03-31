@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://tolkiennerds.online/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
